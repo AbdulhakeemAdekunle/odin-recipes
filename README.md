@@ -5,8 +5,7 @@
 This project is a personal project that was created to practise some **HTML** skills I just learned through [theodinproject](https://www.theodinproject.com/)  
 In this projects, I used some of the new **HTML** concepts to create a website that talks about different type of **recipes**, the ingredients used to make the recipes and the steps involved in each recipe.
 
-[!NOTE]
-
+**NOTE**  
 This is a project that focuses on practising HTML skills. **Don't** make use of the information on the website for personal purpose. e.g. :smiley: following the steps on the website to prepare a similar recipe. I'm not a chef and I have never made any of the recipe on the website before.
 
 ### Key Concepts
