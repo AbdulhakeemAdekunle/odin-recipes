@@ -19,5 +19,5 @@ This is a project that focuses on practising HTML skills. **Don't** make use of 
 
 ### Navigation
 
-Your can access the website on [The Website Name](AbdulhakeemAdekunle.github.io/odin-recipes)  
-From the HomePage, you'll find a link to other pages where each recipe is being talked about. Also from each recipe's page, there's a link back to the HomePage where you can go back to see the links to other recipes' pages.
+Your can access the website on [odin recipe website](abdulhakeemadekunle.github.io/odin-recipes/)  
+From the HomePage, you'll find a link to other pages, where each recipe is being talked about. Also, from each recipe's page, there's a `Home` link to the HomePage where you can go back to see the links to other recipes' pages.
